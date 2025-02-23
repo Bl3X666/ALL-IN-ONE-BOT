@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://shiva:shiva@discordbott.62df3.mongodb.net/?retryWrites=true&w=majority&appName=discordbott",
     "excessCommands": {
         "utility": true,
         "other": true,
