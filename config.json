@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://Bl3X6:Bl3X6@discordbot.x1fc0.mongodb.net/?retryWrites=true&w=majority&appName=discordbot",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
