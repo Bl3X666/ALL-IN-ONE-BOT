@@ -4,7 +4,7 @@ const colors = require('./UI/colors/colors');
 const client = require('./main');
 dotenv.config();
 const { PermissionsBitField } = require('discord.js');
-const API_BASE_URL = process.env.API_BASE_URL || 'http://0.0.0.0:926850818399940688/api';
+const API_BASE_URL = process.env.API_BASE_URL || 'http://0.0.0.0:10000/api';
 let serverOnline = true;
 
 async function checkServerStatus() {
